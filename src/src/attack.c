@@ -5,10 +5,6 @@
  * SPDX-License-Identifier: GPL-2.0-only
  */
 
-/**
- * @file attack.c
- * @brief Launches the plugins, and manages multithreading.
- */
 
 #include "attack.h"
 
